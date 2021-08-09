@@ -1,1 +1,1 @@
-# fashion-detector
+# Fashion Detector
